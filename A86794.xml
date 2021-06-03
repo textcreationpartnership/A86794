@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the gentry, ministers, and commonalty of the Barony of Kendall in the county of Westmerland, who have subscribed hereunto. Wherein they set forth their readinesse to maintain and defend His Majesties royall person, honour, and estate, and according to their protestation, the power and priviledge of Parliaments, the lawfull rights and liberties of the subject. 6. Augusti, 1642. Ordered by the Commons in Parliament, that master Bayns who delivered this petition into the House, return the county hearty thanks for their duty to His Majesty, and good affection to the Parliament. And it is further ordered, that this petition be forthwith prinred [sic]. H. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86794</idno><idno type="EEBO-CITATION">99859201</idno>
+  <idno type="VID">111270</idno>
+  <idno type="EEBO-PROQUEST">2240889800</idno>
+  
+            <idno type="STC">Wing H3507</idno>
+            <idno type="STC">Thomason E109_22</idno>
+            <idno type="STC">ESTC R12064</idno>
+            <idno type="PROQUEST">99859201</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859201e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111270)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the gentry, ministers, and commonalty of the Barony of Kendall in the county of Westmerland, who have subscribed hereunto. Wherein they set forth their readinesse to maintain and defend His Majesties royall person, honour, and estate, and according to their protestation, the power and priviledge of Parliaments, the lawfull rights and liberties of the subject. 6. Augusti, 1642. Ordered by the Commons in Parliament, that master Bayns who delivered this petition into the House, return the county hearty thanks for their duty to His Majesty, and good affection to the Parliament. And it is further ordered, that this petition be forthwith prinred [sic]. H. Elsynge, Cler. Parl. D. Com.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. and I. F. for Edward Husbands and John Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 8. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Cumbria (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111270:1"/>
+            <p>The Humble PETITION OF THE Gentry, Ministers, and Commo<g ref="char:EOLhyphen"/>nalty of the Barony of <hi>Kendall</hi> in the County OF VVestmerland, Who have subscribed hereunto.</p>
+            <p>WHEREIN They set forth their readinesse to maintain and defend His Majesties Royall Per<g ref="char:EOLhyphen"/>son, Honour, and Estate, and according to their Protestation, the power and priviledge of Parliaments, the lawfull Rights and Liberties of the Subject.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>6. <hi>Augusti,</hi> 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Commons in Parliament, That Master <hi>Bayns</hi> who delivered this Petition into the House, return the County hearty thanks for their duty to His Majestie, and good affection to the Parliament. And it is further Or<g ref="char:EOLhyphen"/>dered, That this Petition be forthwith Printed.</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>L. N.</hi> and <hi>I. F.</hi> for <hi>Edward Husbands</hi> and <hi>John Franck,</hi> August 8. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:111270:2"/>
+            <pb n="3" facs="tcp:111270:2"/>
+            <head>To the Honorable, THE Knights, Citizens, and Burgesses of the House of Commons now Assembled in Parliament; The humble Petition of the Gentry, Ministers, and Commonalty of the Barony of <hi>Kendall</hi> in the County of <hi>Westmerland,</hi> who have subscribed hereunto.</head>
+            <opener>In all humility sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat we are very sensi<g ref="char:EOLhyphen"/>ble of our too great re<g ref="char:EOLhyphen"/>misnesse, in rendring thanks for your unwea<g ref="char:EOLhyphen"/>ried labours, and constant endea<g ref="char:EOLhyphen"/>vours (to the hazard of your lives
+<pb n="4" facs="tcp:111270:3"/>and fortunes) for the generall good and safety of the whole Kingdom, And especially for Your endea<g ref="char:EOLhyphen"/>vours to preserve the true refor<g ref="char:EOLhyphen"/>med Protestant Religion without mixture or composition, against those subtle Innovators that have long laboured to hinder and ca<g ref="char:EOLhyphen"/>luminate the power and practise thereof, evidenced by their wick<g ref="char:EOLhyphen"/>ed designes, in molesting, and sup<g ref="char:EOLhyphen"/>pressing of many worthy, and powerfull Preachers, by Innova<g ref="char:EOLhyphen"/>tions in Religion, and by casting unjust scandals and aspersions upon the Zealous Professors thereof; together with many other things of maine importance, intended by you (as by Declarations and Votes do appear unto us) for the glory
+<pb n="5" facs="tcp:111270:3"/>of God, the advantage of His Ma<g ref="char:EOLhyphen"/>jestie, the honour of his Govern<g ref="char:EOLhyphen"/>ment, and the contentment of all His Majesties well affected Sub<g ref="char:EOLhyphen"/>jects. And now perceiving that by the subtle and cunning practi<g ref="char:EOLhyphen"/>ses of some evill affected Persons, (Enemies not onely to a thorough Reformation and the power of Religion, but also to the honour of His Majesties Government, the peace and welfare of the whole Kingdom, and to the poor distres<g ref="char:EOLhyphen"/>sed Protestants our Brethren in Ireland) so happy a Reformation both in Church and Common wealth is much hindred; discoun<g ref="char:EOLhyphen"/>tenanced and opposed, to our no lesse grief then amazement.</p>
+            <pb n="6" facs="tcp:111270:4"/>
+            <p>Your Petitioners therefore humbly pray this Honourable Assembly, to continue and go on in your godly and Christian Resolutions, for a happy and thorough Reformation, such as may chiefly tend to the honour of God, the greatnesse and prosperity of His Majestie, and the publique good of the Church and Common-wealth; And that the Au<g ref="char:EOLhyphen"/>thors and Fomentors of our evills, may be brought to condign punishment, the power and priviledges of Parliaments, and the lawfull Rights and Liber<g ref="char:EOLhyphen"/>ties of the Subjects, vindicated and confirm'd, And we according to the duty of our Allegiance, shall be ready to maintain and defend His Majesties Royall person, honour and estate, and according to our pro<g ref="char:EOLhyphen"/>testation, the power and priviledges of Parliaments, the lawfull Rights and Liberties of the Subjects, and every of your Persons, in what ever you shall do in the lawfull pursuance of the same.</p>
+            <closer>And shall ever pray, &amp;c.</closer>
+            <argument>
+               <p>WE the Subscribers of this Petition, do hereby authorize the Transcriber hereof, to transcribe our names in a faire manner.</p>
+            </argument>
+         </div>
+         <div type="answer_to_petition">
+            <pb n="7" facs="tcp:111270:4"/>
+            <head>Die Sabbathi: <hi>6.</hi> Augusti. <hi>1642.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Petition of the Gentry, Mi<g ref="char:EOLhyphen"/>nisters, and Free-holders, of the Baro<g ref="char:EOLhyphen"/>ny of <hi>Kendall</hi> in the Countie of <hi>Westmer<g ref="char:EOLhyphen"/>land</hi> was this day read, and Master <hi>Bayns</hi> who had authority from that Countrey to deliver it, was called in, and Master <hi>Speaker</hi> by the Com<g ref="char:EOLhyphen"/>mand of the House, told him that they had read this Petition, and found it full of duty to His Majestie, and affection to the Common-wealth, and especial<g ref="char:EOLhyphen"/>ly at this time, and therefore he is commanded to re<g ref="char:EOLhyphen"/>turn the County hearty thanks, and that this House will have speciall care of them: They have further Ordered, that this Petition be forthwith Printed.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
